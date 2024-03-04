@@ -14,6 +14,7 @@
 
 	<div id="content">
   <div id="pageheading" style="height:30px"></div>
+      <a>hello two</a>
   <form>
     <div id="login">
     <h2>商家登录</h2>
